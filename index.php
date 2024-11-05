@@ -114,5 +114,7 @@ $police100 = $_POST['police100'];
     </div>
 </div>
 
+<center> <img src=787.jpg>
+
 </body>
 </html>
